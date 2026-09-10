@@ -18,3 +18,5 @@ The road may be completely correct. It may even be the easiest or most efficient
 For me, this is also where programming starts to become interesting. There can be many ways to reach the same goal. Some may be simple, some may be long or complicated, and some may lead to unexpected results. AI can show me useful and reasonable ways forward, but I do not want those to become the only possibilities I know.
 
 I am starting to think that learning programming is not only about learning how to write code. It is also about understanding what is happening behind the result, being able to make my own changes, and discovering possibilities that I would not know existed if I only followed AI.
+
+The Schotter exercise was the first time I directly felt the artistic side of programming. I was surprised when I first saw how a simple grid of squares could gradually change from order to disorder through code. By changing parameters such as ROWS, COLS, and CHAOS, I could see how small changes in rules created different visual results. It made me realize that programming is not only a tool for producing an image—the rules themselves can also be part of the creative process.
