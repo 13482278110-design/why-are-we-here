@@ -26,3 +26,7 @@ Watching Dylan Beattie’s The Art of Code made me think about this in another w
 What interested me most in the talk was seeing code used in ways that were not always practical. Beattie showed examples such as generative art, demoscene, esoteric programming languages, and live coding. Some of them were experimental, playful, or simply created because someone wanted to see what was possible
 
 After my first experience with AI-assisted programming, I wanted to know whether this feeling of “finishing without understanding” was only my own problem. Rahe and Maalej (2025) studied how programming students use generative AI and found that students use it both to understand concepts and to generate solutions. What interested me was that AI can support learning, but it can also make it easy to move directly to a solution without fully engaging with the code.
+
+Rahe, C., & Maalej, W. (2025). How do programming students use generative AI? *Proceedings of the ACM on Software Engineering, 2*(FSE), 978–1000. https://doi.org/10.1145/3715762
+
+Willison, S. (2025, March 19). *Not all AI-assisted programming is vibe coding (but vibe coding rocks).* Simon Willison’s Weblog. https://simonwillison.net/2025/Mar/19/vibe-coding/
