@@ -20,3 +20,7 @@ For me, this is also where programming starts to become interesting. There can b
 I am starting to think that learning programming is not only about learning how to write code. It is also about understanding what is happening behind the result, being able to make my own changes, and discovering possibilities that I would not know existed if I only followed AI.
 
 The Schotter exercise was the first time I directly felt the artistic side of programming. I was surprised when I first saw how a simple grid of squares could gradually change from order to disorder through code. By changing parameters such as ROWS, COLS, and CHAOS, I could see how small changes in rules created different visual results. It made me realize that programming is not only a tool for producing an image—the rules themselves can also be part of the creative process.
+
+Watching Dylan Beattie’s The Art of Code made me think about this in another way. Before watching it, I mostly saw programming as a practical skill. I thought people wrote code mainly to build useful things, such as websites, apps, or software.
+
+What interested me most in the talk was seeing code used in ways that were not always practical. Beattie showed examples such as generative art, demoscene, esoteric programming languages, and live coding. Some of them were experimental, playful, or simply created because someone wanted to see what was possible
