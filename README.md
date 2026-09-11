@@ -24,3 +24,5 @@ The Schotter exercise was the first time I directly felt the artistic side of pr
 Watching Dylan Beattie’s The Art of Code made me think about this in another way. Before watching it, I mostly saw programming as a practical skill. I thought people wrote code mainly to build useful things, such as websites, apps, or software.
 
 What interested me most in the talk was seeing code used in ways that were not always practical. Beattie showed examples such as generative art, demoscene, esoteric programming languages, and live coding. Some of them were experimental, playful, or simply created because someone wanted to see what was possible
+
+After my first experience with AI-assisted programming, I wanted to know whether this feeling of “finishing without understanding” was only my own problem. Rahe and Maalej (2025) studied how programming students use generative AI and found that students use it both to understand concepts and to generate solutions. What interested me was that AI can support learning, but it can also make it easy to move directly to a solution without fully engaging with the code.
